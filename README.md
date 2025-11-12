@@ -1,10 +1,6 @@
 # TheWork
-UNLOCK Framework &amp; Lattice Physics
-
-# The Work: UNLOCK Framework & Lattice Physics
-
+**UNLOCK Framework &amp; Lattice Physics**
 **Complete Research Collection**
-
 **Version 1.0 — November 2025**
 
 ---
