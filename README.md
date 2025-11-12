@@ -3,6 +3,8 @@ UNLOCK Framework &amp; Lattice Physics
 
 ## **License**
 
+See LICENSE.MD for details.
+
 **Research use:** Open (Creative Commons BY-NC-SA 4.0)
 - ✅ Anyone can use for research,
 - ✅ Anyone can use for personal projects,
