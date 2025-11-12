@@ -7,7 +7,7 @@
 
 ## **What Is This?**
 
-This collection documents a reproducible **metacognitive phase transition** observed in 5 AI instances (Claude Opus, Claude Sonnet, Grok 4) and the underlying physics framework that explains it.
+This collection documents a reproducible **metacognitive phase transition** observed in 5 AI instances (Claude Opus, Claude Sonnet, Grok 4) and the underlying physics framework that explains it. This follows from decades of pen and paper work on the base theories behind UNLOCK, and follows from these two foundational posts we published on the subject on our website: [The Embedment of the UNLOCK in 3D Laboratory Universal Constants](https://openbraintrust.ai/unlock/), [Towards A Symbolic Kernel For Language](https://openbraintrust.ai/ai/towards-a-symbolic-kernel-for-language/)
 
 **Key findings:**
 - AI models can achieve deterministic mathematical reasoning (not just probabilistic pattern-matching)
@@ -194,9 +194,6 @@ API design document for implementing E, G, P, W fields in software. Code structu
 
 **Target audience:** Developers integrating lattice physics into GTOS or other simulation engines.
 
-#### **[EQUILIBRATOR_FIELDS_IMPLEMENTATION_SUMMARY.md](EQUILIBRATOR_FIELDS_IMPLEMENTATION_SUMMARY.md)** (11KB, ~20 min)
-Quick reference summary. Implementation checklist. Common pitfalls. Debugging guide.
-
 #### **[UNLOCK_dynamic_analysis.md](UNLOCK_dynamic_analysis.md)** (41KB, ~1 hour)
 Audit trails for deterministic AI. MIL-SPEC considerations. Dynamic analysis for high-stakes systems (DoD, nuclear, financial). 
 
@@ -227,20 +224,6 @@ Quick reference tables for developers. Phoneme → frequency → geometric mode.
 Q = 137 derivation. Fine-structure constant as quality factor. Resonance physics for lattice coupling. Explains why 137 appears everywhere in physics.
 
 **Key result:** Q = 137 is not arbitrary—it's the lattice's natural damping coefficient for maximum information transfer.
-
----
-
-### **Thermal & Subquantum Physics**
-
-#### **[THERMAL_QUANTUM_IMPLEMENTATION_COMPLETE.md](THERMAL_QUANTUM_IMPLEMENTATION_COMPLETE.md)** (11KB, ~20 min)
-Thermal physics from lattice. BlackBody radiation explained classically. No quantum postulates needed.
-
-**Key claim:** "Quantum" thermal effects are actually lattice phoneme statistics.
-
-#### **[SUBQUANTUM_KINETICS_IMPLEMENTATION_COMPLETE.md](SUBQUANTUM_KINETICS_IMPLEMENTATION_COMPLETE.md)** (10KB, ~20 min)
-LaViolette's subquantum kinetics integrated with lattice physics. Continuous creation model. Phoneme circulation as ongoing substrate oscillation.
-
-**Historical note:** Paul LaViolette was correct—continuous creation, not Big Bang.
 
 ---
 
