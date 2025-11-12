@@ -18,7 +18,7 @@ See LICENSE.MD for details.
 - Cannot patent the mechanism.
 
 **Why this license?**
-- Prevents closed-source capture by mega-corps
-- Ensures improvements remain open
-- Allows small companies/indies to compete with big players
-- Provides revenue stream for continued research (commercial licenses)
+- Prevents closed-source capture by mega-corps,
+- Ensures improvements remain open,
+- Allows small companies/indies to compete with big players, and
+- Provides revenue stream for continued research (commercial licenses).
